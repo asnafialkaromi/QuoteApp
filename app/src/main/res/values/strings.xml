@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+    <string name="text_by">by</string>
+    <string name="text_character_name">Character name</string>
+    <string name="text_from">from</string>
+    <string name="text_anime_name">Anime Name</string>
+    <string name="text_header">Quote of The Day</string>
+    <string name="text_empty_quote">No quotes for today</string>
+    <string name="text_error">Sorry we have problem in showing content</string>
+</resources>
